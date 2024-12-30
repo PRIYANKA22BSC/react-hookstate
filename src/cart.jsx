@@ -5,8 +5,7 @@ function Cart(props) {
     (total, item) => total + item.price * item.qty,
     0
   );
-
-   
+  
   return (
     <>
   
