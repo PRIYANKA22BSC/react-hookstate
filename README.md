@@ -1,6 +1,6 @@
 # Hook State Task for Shoe Products
 
-[Live Demo](https://react-hookstate.vercel.app/)
+Live Demo-https://react-hookstate.vercel.app/
 
 This project demonstrates the use of React hooks to manage the state of a shoe product list with the functionality to add products to a cart, and adjust the quantity of each product in the cart.
 
